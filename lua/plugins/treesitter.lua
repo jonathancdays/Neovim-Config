@@ -21,7 +21,6 @@ return {
       "json",
       "lua",
       "luadoc",
-      "lua patterns",
       "markdown",
       "markdown_inline",
       "powershell",

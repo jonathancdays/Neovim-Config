@@ -23,7 +23,7 @@ return {
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.tailwindcss" },
   -- Astro Community Debugging
-  { import = "astrocommunity.debugging.nvim-bqf" },
+  { import = "astrocommunity.quickfix.nvim-bqf" },
   { import = "astrocommunity.debugging.nvim-chainsaw" },
   { import = "astrocommunity.debugging.nvim-dap-virtual-text" },
   { import = "astrocommunity.debugging.persistent-breakpoints-nvim" },
@@ -31,6 +31,7 @@ return {
   { import = "astrocommunity.debugging.nvim-dap-repl-highlights" },
   -- Astro Community Colorscheme
   { import = "astrocommunity.colorscheme.rose-pine" },
+  { import = "astrocommunity.icon.mini-icons" },
   -- Astro Community Motion
   { import = "astrocommunity.motion.harpoon" },
   -- Astro Community Media
