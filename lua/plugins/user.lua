@@ -5,6 +5,13 @@
 
 ---@type LazySpec
 return {
+  -- nyvzone/typr
+  {
+    "nvzone/typr",
+    cmd = "TyprStats",
+    dependencies = "nvzone/volt",
+    opts = {},
+  },
   -- toppair/peek.nvim
   {
     "toppair/peek.nvim",
