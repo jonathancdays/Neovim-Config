@@ -10,7 +10,7 @@ return {
   -- Astro Community Game
   { import = "astrocommunity.game.leetcode-nvim" },
   -- Astro Project
-  { import = "astrocommunity.project.projectmgr.nvim" },
+  { import = "astrocommunity.project.projectmgr-nvim" },
   -- Astro Note Taking
   { import = "astrocommunity.note-taking.neorg" },
   { import = "astrocommunity.note-taking.venn-nvim" },
