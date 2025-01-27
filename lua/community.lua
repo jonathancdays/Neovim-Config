@@ -9,7 +9,15 @@ return {
   "AstroNvim/astrocommunity",
   -- Astro Community Game
   { import = "astrocommunity.game.leetcode-nvim" },
+  -- Astro Project
+  { import = "astrocommunity.project.projectmgr.nvim" },
+  -- Astro Note Taking
+  { import = "astrocommunity.note-taking.neorg" },
+  { import = "astrocommunity.note-taking.venn-nvim" },
+  { import = "astrocommunity.note-taking.obsidian-nvim" },
+  { import = "astrocommunity.note-taking.global-note-nvim" },
   -- Astro Community Pack
+  { import = "astrocommunity.pack.mdx" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.sql" },
@@ -38,6 +46,7 @@ return {
   { import = "astrocommunity.media.codesnap-nvim" },
   -- Astro Community Workflow
   { import = "astrocommunity.workflow.hardtime-nvim" },
+  { import = "astrocommunity.workflow.precognition-nvim" },
   { import = "astrocommunity.workflow.bad-practices-nvim" },
   -- Astro Community Terminal Integration
   { import = "astrocommunity.terminal-integration.vim-tmux-yank" },
