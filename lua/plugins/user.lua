@@ -8,7 +8,7 @@ return {
   -- nyvzone/typr
   {
     "nvzone/typr",
-    cmd = "TyprStats",
+    cmd = { "Typr", "TyprStats" },
     dependencies = "nvzone/volt",
     opts = {},
   },
